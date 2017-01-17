@@ -1,1 +1,1 @@
-# The-Odin-Project
+Exercícios sugerido pelo projeto http://www.theodinproject.com/, em que ele propõe a criação de uma página principal do google utilizando somente html e css. É então necessária a utilização de divs, a movimentação delas pela página e a criação de um formulário básico.
